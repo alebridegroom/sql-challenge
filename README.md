@@ -20,7 +20,13 @@
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-![question4](https://github.com/alebridegroom/sql-challenge/assets/91504694/8f277f71-41a9-4d2b-a473-9ecc3ef4901f)
+![question4](https://github.com/alebridegroom/sql-challenge/assets/91504694/8e437b18-3ec3-47b7-ac94-b88d6ebb3c35)
+
+5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+
+![question5](https://github.com/alebridegroom/sql-challenge/assets/91504694/78d97fad-4004-484f-9014-179524f1a179)
+
+
 
 
 
