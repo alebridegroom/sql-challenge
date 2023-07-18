@@ -20,11 +20,28 @@
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-![question4](https://github.com/alebridegroom/sql-challenge/assets/91504694/8e437b18-3ec3-47b7-ac94-b88d6ebb3c35)
+![question4](https://github.com/alebridegroom/sql-challenge/assets/91504694/c8de7109-5912-4f84-b22b-6faca751251d)
+
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
-![question5](https://github.com/alebridegroom/sql-challenge/assets/91504694/78d97fad-4004-484f-9014-179524f1a179)
+![question5](https://github.com/alebridegroom/sql-challenge/assets/91504694/17f43e5f-9c38-4ba1-9a16-6e77cd957c9a)
+
+6. List each employee in the Sales department, including their employee number, last name, and first name.
+
+![question6](https://github.com/alebridegroom/sql-challenge/assets/91504694/24fb2ebf-8f21-4fb9-bb24-4661831d8065)
+
+7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+![question7](https://github.com/alebridegroom/sql-challenge/assets/91504694/3625d430-7a50-4dbc-81bc-394fa85521cf)
+
+8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+![question8](https://github.com/alebridegroom/sql-challenge/assets/91504694/2c4f05a3-dcaf-457b-9605-e3b42d3bbcbe)
+
+
+
+
 
 
 
